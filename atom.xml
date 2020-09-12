@@ -255,9 +255,9 @@
       <category term="Solution" scheme="http://Mkozex.github.io/categories/Solution/"/>
     
     
-      <category term="前缀和" scheme="http://Mkozex.github.io/tags/%E5%89%8D%E7%BC%80%E5%92%8C/"/>
-    
       <category term="ZROJ" scheme="http://Mkozex.github.io/tags/ZROJ/"/>
+    
+      <category term="前缀和" scheme="http://Mkozex.github.io/tags/%E5%89%8D%E7%BC%80%E5%92%8C/"/>
     
   </entry>
   
@@ -419,11 +419,11 @@
     
       <category term="数论" scheme="http://Mkozex.github.io/tags/%E6%95%B0%E8%AE%BA/"/>
     
-      <category term="Math" scheme="http://Mkozex.github.io/tags/Math/"/>
-    
       <category term="欧拉定理" scheme="http://Mkozex.github.io/tags/%E6%AC%A7%E6%8B%89%E5%AE%9A%E7%90%86/"/>
     
       <category term="扩展欧拉定理" scheme="http://Mkozex.github.io/tags/%E6%89%A9%E5%B1%95%E6%AC%A7%E6%8B%89%E5%AE%9A%E7%90%86/"/>
+    
+      <category term="Math" scheme="http://Mkozex.github.io/tags/Math/"/>
     
       <category term="BZOJ" scheme="http://Mkozex.github.io/tags/BZOJ/"/>
     
@@ -451,9 +451,9 @@
     
       <category term="数论" scheme="http://Mkozex.github.io/tags/%E6%95%B0%E8%AE%BA/"/>
     
-      <category term="Math" scheme="http://Mkozex.github.io/tags/Math/"/>
-    
       <category term="欧拉定理" scheme="http://Mkozex.github.io/tags/%E6%AC%A7%E6%8B%89%E5%AE%9A%E7%90%86/"/>
+    
+      <category term="Math" scheme="http://Mkozex.github.io/tags/Math/"/>
     
       <category term="Lucas定理" scheme="http://Mkozex.github.io/tags/Lucas%E5%AE%9A%E7%90%86/"/>
     
@@ -483,9 +483,9 @@
     
       <category term="数论" scheme="http://Mkozex.github.io/tags/%E6%95%B0%E8%AE%BA/"/>
     
-      <category term="素数" scheme="http://Mkozex.github.io/tags/%E7%B4%A0%E6%95%B0/"/>
-    
       <category term="Math" scheme="http://Mkozex.github.io/tags/Math/"/>
+    
+      <category term="素数" scheme="http://Mkozex.github.io/tags/%E7%B4%A0%E6%95%B0/"/>
     
   </entry>
   
